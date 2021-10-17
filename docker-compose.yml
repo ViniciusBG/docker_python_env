@@ -4,7 +4,7 @@ services:
     volumes: 
       - .:/code 
     build: .
-    stdin_open: true # docker run -i
-    tty: true        # docker run -t
-        ports:
-      - "8888:8888"
+    stdin_open: true 
+    tty: true        
+    ports:
+      - 8888:8888
