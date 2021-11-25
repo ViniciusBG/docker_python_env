@@ -1,4 +1,4 @@
-# docker_python_env
+# Docker for Python development
 
 Since I've started dealing with Docker, I have never used python virtual or conda envs anymore. I've really liked it.
 
