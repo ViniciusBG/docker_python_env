@@ -1,6 +1,6 @@
 # Docker for Python development
 
-Since I've started dealing with Docker, I have never used python virtual or conda envs anymore. I've really liked it.
+Since I've started dealing with Docker, I have never used python virtual envs or conda envs dicretly on my OS anymore. I've really liked it.
 
 This repo brings a base image for python development with a Dockerfile and a docker-compose.yaml to create an isolated python env. 
 
